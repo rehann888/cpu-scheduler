@@ -42,7 +42,7 @@ This project implements various CPU scheduling algorithms including First-In-Fir
 To run the simulation:
 
 - Open `SchedulerSimulation`.
-- Run the `SchedulerSimulation method`.
+- Run the `SchedulerSimulation` method.
 - Follow the GUI prompts to input process details and select the scheduling algorithm.
 
 ### Input Example
