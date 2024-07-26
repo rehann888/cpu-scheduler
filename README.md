@@ -32,7 +32,7 @@ This project implements various CPU scheduling algorithms including First-In-Fir
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/rehann888/cpu-scheduler.git
-   cd SchedulerSimulation
+   cd cpu-scheduler
 
 2. **Open the project in your IDE.**
 
@@ -41,8 +41,8 @@ This project implements various CPU scheduling algorithms including First-In-Fir
 ### Usage
 To run the simulation:
 
-- Open `Main.java`.
-- Run the `Main method`.
+- Open `SchedulerSimulation`.
+- Run the `SchedulerSimulation method`.
 - Follow the GUI prompts to input process details and select the scheduling algorithm.
 
 ### Input Example
